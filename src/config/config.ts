@@ -6,22 +6,22 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Dr. Vijayakumar',
-    title: 'Assistant Professor | Multimodal AI Researcher',
+    name: 'Keerthana',
+    title: 'Christ University Student | Studying BA ECONOMICS',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
+    description: 'I am a BA Economics student based in Bangalore, India, with a strong interest in public policy, development economics, and applied economic analysis.\n' +
         '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
+        'My academic work focuses on real-world economic issues such as employment, inflation, and income inequality, supported by coursework, presentations, and research-based assignments.\n' +
         '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
+        'I am particularly interested in how economic theory can be applied to address real-world policy and development challenges.' +
         '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
+        'I am building skills in economic research, policy evaluation, and basic data analysis, with a growing interest in evidence-based decision making.',
     tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
 
   seo: {
-    title: "Dr. Chandravesh Chaudhari - Assistant Professor & AI Researcher",
+    title: "Keerthana, Student at Christ University",
     description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
   },
 
