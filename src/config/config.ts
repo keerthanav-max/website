@@ -16,7 +16,7 @@ const siteConfig = {
         'I am particularly interested in how economic theory can be applied to address real-world policy and development challenges.' +
         '\n' +
         'I am building skills in economic research, policy evaluation, and basic data analysis, with a growing interest in evidence-based decision making.',
-    tagline: 'Empowering business through data-driven intelligence.',
+    tagline: 'BA Economics Undergraduate',
   location: 'Bangalore, India',
   },
 
@@ -25,7 +25,7 @@ const siteConfig = {
     description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
   },
 
-  animatedText: ['AI Researcher', 'Educator', 'Speaker', 'Builder'],
+  animatedText: ['STUDENT', 'STUDENT', 'STUDENT', 'STUDENT'],
 
 navigation: [
   { name: 'Home', url: '/' },
@@ -300,7 +300,7 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
+    email: 'vijaykeerthana@gmail.com',
     linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
